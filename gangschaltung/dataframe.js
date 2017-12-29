@@ -18,7 +18,7 @@
         nodeStructure: {
             //image: "img/malory.png",
             text: {
-                name: "Gangschhaltung",
+                name: "Gangschaltung",
             },
           collapsed: true,
             children: [
